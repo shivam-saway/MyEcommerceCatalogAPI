@@ -1,2 +1,3 @@
 # MyEcommerceCatalogAPI
-MyEcommerceCatalogAPI
+MyEcommerceCatalogAPI with MONGO db
+
