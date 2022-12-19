@@ -1,3 +1,2 @@
 # MyEcommerceCatalogAPI
-MyEcommerceCatalogAPI with MONGO db
-
+Ecommerce project Backend APIs - Learning Purpose
