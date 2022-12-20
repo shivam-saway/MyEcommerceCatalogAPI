@@ -22,6 +22,7 @@ builder.Services.AddMassTransit(config =>
         cfg.Host("amqp://guest:guest@localhost:5672");
     });
 });
+builder.Services.AddAutoMapper(typeof(Program));
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
